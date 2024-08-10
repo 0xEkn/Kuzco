@@ -54,5 +54,6 @@ kuzco init
 > Bilgisi ve beyni yetmeyip sıkışınca her içeriğime hem ilk atlayıp hem de bana ve topluluğuma laf atan zırtapozlar [bu şarkı](https://www.youtube.com/watch?v=P5rSkpGr3SI) size.
 
 > Hadi bu içeriğide alın kendinize çevirin.
+# Kuzco
 
 </details>
